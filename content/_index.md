@@ -3,8 +3,8 @@ title: Former Raytheon Engineer & Tech Entrepeneur with a Strong Background in R
 subtitle: Welcome to my technical portfolio where I show you all of my engineering projects.
 seo_title: Liz Miller | Robotics Engineer & Entrepeneur
 
-primary_cta_page: "View More"
-secondary_cta_page: "My Work"
+primary_cta_page: "about"
+secondary_cta_page: "projects"
 
 posts_section_heading: Liz's Blog
 projects_section_heading: Technical Portfolio
