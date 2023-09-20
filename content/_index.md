@@ -1,13 +1,13 @@
 ---
-title: Jump-start your personal blog and portfolio with the Hugo Liftoff theme.
-subtitle: Minimal blog/portfolio theme with a focus on content creation and SEO best practices. An ideal choice for technical users jump-starting a personal brand.
-seo_title: Hugo Liftoff | Hugo theme for creators
+title: Former Raytheon Engineer & Tech Entrepeneur with a Strong Background in Robotics & Automation
+subtitle: Welcome to my technical portfolio where I show you all of my engineering projects.
+seo_title: Liz Miller | Robotics Engineer & Entrepeneur
 
-primary_cta_page: "about"
-secondary_cta_page: "projects"
+primary_cta_page: "View More"
+secondary_cta_page: "My Work"
 
-posts_section_heading: Recent Posts
-projects_section_heading: My Projects
+posts_section_heading: Liz's Blog
+projects_section_heading: Technical Portfolio
 ---
 
 {{< recent-posts 5 >}}
